@@ -2,7 +2,7 @@
  Project Overview
 This project involves a comprehensive analysis of a pizza restaurant's sales data using SQL. The goal was to extract actionable insights regarding customer behavior, product performance, and revenue growth. The analysis transitions from basic data retrieval to complex analytical queries involving multi-table joins, subqueries, and window functions.
 
- #Tech Stack
+ # Tech Stack
 Database: PostgreSQL 
 
 Language: SQL
@@ -19,7 +19,7 @@ Product Insights: Identified the highest-priced pizza and the most common pizza 
 
 Popularity: Listed the top 5 most ordered pizza types based on quantity.
 
-#2. Intermediate Analysis
+# 2. Intermediate Analysis
 Category breakdown: Joined multiple tables to determine the total quantity ordered for each pizza category (e.g., Classic, Veggie, Supreme).
 
 Hourly Distribution: Analyzed order timestamps to find the peak hours of operation.
@@ -28,7 +28,7 @@ Inventory & Variety: Determined the distribution of pizzas across different cate
 
 Daily Averages: Grouped orders by date to calculate the average number of pizzas sold per day.
 
-#3. Advanced Insights (Business Intelligence)
+# 3. Advanced Insights (Business Intelligence)
 Revenue Leaders: Identified the top 3 pizza types contributing most to the total revenue.
 
 Contribution Analysis: Calculated the percentage contribution of each pizza type to the overall sales.
